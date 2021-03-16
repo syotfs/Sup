@@ -9,15 +9,15 @@ This Charter sets forth the responsibilities and procedures for technical contri
 
 ## 1. Mission and Scope of the Project
 
-a.	The mission of the Project is to develop a platform that gives network operators an open, flexible and extendable mobile core network solution.
+a. The mission of the Project is to develop a platform that gives network operators an open, flexible and extendable mobile core network solution.
 
-b.	The scope of the Project includes collaborative development under the Project License (as defined herein) supporting the mission, including documentation, testing, integration and the creation of other artifacts that aid the development, deployment, operation or adoption of the open source project.
+b. The scope of the Project includes collaborative development under the Project License (as defined herein) supporting the mission, including documentation, testing, integration and the creation of other artifacts that aid the development, deployment, operation or adoption of the open source project.
 
 ## 2. Technical Steering Committee
 
-a.	The Technical Steering Committee (the “TSC”) will be responsible for all technical oversight of the open source Project.
+a. The Technical Steering Committee (the “TSC”) will be responsible for all technical oversight of the open source Project.
 
-b.	At the inception of the project, the Committers of the Project will be as set forth within the “CONTRIBUTING” file within the Project’s code repository. The initial Committers will vote to appoint five (5) of its members to serve as the voting members of the TSC for a period of one (1) year.  The Project Committers may choose an alternative approach for determining the voting members of the TSC, and any such alternative approach will be documented in the CONTRIBUTING file.  Any meetings of the Technical Steering Committee are intended to be open to the public, and can be conducted electronically, via teleconference, or in person.
+b. At the inception of the project, the Committers of the Project will be as set forth within the “CONTRIBUTING” file within the Project’s code repository. The initial Committers will vote to appoint five (5) of its members to serve as the voting members of the TSC for a period of one (1) year.  The Project Committers may choose an alternative approach for determining the voting members of the TSC, and any such alternative approach will be documented in the CONTRIBUTING file.  Any meetings of the Technical Steering Committee are intended to be open to the public, and can be conducted electronically, via teleconference, or in person.
 
 c.	TSC projects generally will involve Contributors and Committers. The TSC may adopt or modify roles so long as the roles are documented in the CONTRIBUTING file. Unless otherwise documented:
 
@@ -125,4 +125,4 @@ d. Contributed files should contain license information, such as SPDX short form
 
 ## 9. Amendments
 
-a) This charter may be amended by a two-thirds vote of the entire TSC and is subject to approval by LF Projects.
+This charter may be amended by a two-thirds vote of the entire TSC and is subject to approval by LF Projects.
