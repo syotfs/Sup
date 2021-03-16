@@ -1,4 +1,4 @@
-## Technical Charter (the "Charter") for Magma Core Foundation
+# Technical Charter (the "Charter") for Magma Core Foundation
 **a Series of LF Projects, LLC**
 
 ---
@@ -7,13 +7,13 @@
 
 This Charter sets forth the responsibilities and procedures for technical contribution to, and oversight of, the Magma open source project (github.com/magma), which has been established as Magma Core Foundation a Series of LF Projects, LLC (the “Project”). LF Projects, LLC (“LF Projects”) is a Delaware series limited liability company. All contributors (including committers, maintainers, and other technical positions) and other participants in the Project (collectively, “Collaborators”) must comply with the terms of this Charter.
 
-### 1. Mission and Scope of the Project
+## 1. Mission and Scope of the Project
 
 a.	The mission of the Project is to develop a platform that gives network operators an open, flexible and extendable mobile core network solution.
 
 b.	The scope of the Project includes collaborative development under the Project License (as defined herein) supporting the mission, including documentation, testing, integration and the creation of other artifacts that aid the development, deployment, operation or adoption of the open source project.
 
-### 2. Technical Steering Committee
+## 2. Technical Steering Committee
 
 a.	The Technical Steering Committee (the “TSC”) will be responsible for all technical oversight of the open source Project.
 
@@ -53,7 +53,7 @@ g.	Responsibilities: The TSC will be responsible for all aspects of oversight re
 
 &nbsp;&nbsp;&nbsp;&nbsp;ix. coordinating any marketing, events, or communications regarding the Project.
 
-### 3. TSC Voting
+## 3. TSC Voting
 
 a.	While the Project aims to operate as a consensus-based community, if any TSC decision requires a vote to move the Project forward, the voting members of the TSC will vote on a one vote per voting member basis.
 
@@ -63,7 +63,7 @@ c.	Except as provided in Section 7.c. and 8.a, decisions by vote at a meeting re
 
 d.	In the event a vote cannot be resolved by the TSC, any voting member of the TSC may refer the matter to the Series Manager for assistance in reaching
 
-### 4. Compliance with Policies
+## 4. Compliance with Policies
 
 a.	This Charter is subject to the Series Agreement for the Project and the Operating Agreement of LF Projects. Contributors will comply with the policies of LF Projects as may be adopted and amended by LF Projects, including, without limitation the policies listed at https://lfprojects.org/policies/.
 
@@ -75,7 +75,7 @@ d.	All Collaborators must allow open participation from any individual or organi
 
 e.	The Project will operate in a transparent, open, collaborative, and ethical manner at all times. The output of all Project discussions, proposals, timelines, decisions, and status should be made open and easily visible to all. Any potential violations of this requirement should be reported immediately to the Series Manager.
 
-### 5. Community Assets
+## 5. Community Assets
 
 a.	LF Projects will hold title to all trade or service marks used by the Project (“Project Trademarks”), whether based on common law or registered rights.  Project Trademarks will be transferred and assigned to LF Projects to hold on behalf of the Project. Any use of any Project Trademarks by Collaborators in the Project will be in accordance with the license from LF Projects and inure to the benefit of LF Projects.
 
@@ -83,7 +83,7 @@ b.	The Project will, as permitted and in accordance with such license from LF Pr
 
 c.	Under no circumstances will LF Projects be expected or required to undertake any action on behalf of the Project that is inconsistent with the tax-exempt status or purpose, as applicable, of the Joint Development Foundation or LF Projects, LLC.
 
-### 6. General Rules and Operations.
+## 6. General Rules and Operations.
 
 a. The Project will:
 
@@ -91,13 +91,7 @@ a. The Project will:
 
 &nbsp;&nbsp;&nbsp;&nbsp;ii. respect the rights of all trademark owners, including any branding and trademark usage guidelines.
 
-### 7. **Related Companies**
-
-a. "Related Company" means any entity which controls or is controlled by a Member or which, together with a Member, is under the common control of a third party, in each case where such control results from ownership, either directly or indirectly, of more than fifty percent of the voting securities or membership interests of the entity in question;
-
-b. "Related Company Group" are entities that are each a Related Company of a Member.
-
-### 8. Intellectual Property Policy
+## 7. Intellectual Property Policy
 
 a.	Collaborators acknowledge that the copyright in all new contributions will be retained by the copyright holder as independent works of authorship and that no contributor or copyright holder will be required to assign copyrights to the Project.
 
@@ -108,8 +102,11 @@ b.	All contributions to the Project are subject to the following:
 &nbsp;&nbsp;&nbsp;&nbsp;ii.	The Project License currently applies to development under github.com/magma/magma. This TSC (or other TSCs that are created in the future) may accept contributions under different licenses for other repositories, including OSI-approved open source licenses, a creative commons license or another copyright-only license, the OAI Public License, or any other licensing terms that are acceptable to this TSC (or future TSCs) and the applicable contributors.
 
 &nbsp;&nbsp;&nbsp;&nbsp;iii.	All new inbound code contributions must also be accompanied by a TSC-approved contribution process which will bind the authorized contributor and, if not self-employed, their employer to the applicable license.
-iv.	All outbound code will be made available under the Project License.
+
+&nbsp;&nbsp;&nbsp;&nbsp;iv.	All outbound code will be made available under the Project License.
+
 &nbsp;&nbsp;&nbsp;&nbsp;v.	Documentation will be received and made available by the Project under the Creative Commons Attribution 4.0 International License (available at http://creativecommons.org/licenses/by/4.0/).
+
 &nbsp;&nbsp;&nbsp;&nbsp;vi.	The Project may seek to integrate and contribute back to other open source projects (“Upstream Projects”). In such cases, the Project will conform to all license requirements of the Upstream Projects, including dependencies, leveraged by the Project.  Upstream Project code contributions not stored within the Project’s main code repository will comply with the contribution process and license terms for the applicable Upstream Project.
 
 &nbsp;&nbsp;&nbsp;&nbsp;i. All new inbound code contributions to the Project must be made using the Apache License, Version 2.0, available at [https://www.apache.org/licenses/LICENSE-2.0](https://www.apache.org/licenses/LICENSE-2.0) (the "Project License").
@@ -126,6 +123,6 @@ c. The TSC may approve the use of an alternative license or licenses for inbound
 
 d. Contributed files should contain license information, such as SPDX short form identifiers, indicating the open source license or licenses pertaining to the file.
 
-### 9. Amendments
+## 9. Amendments
 
 a) This charter may be amended by a two-thirds vote of the entire TSC and is subject to approval by LF Projects.
