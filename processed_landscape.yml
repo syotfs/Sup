@@ -1,0 +1,1837 @@
+# THIS FILE IS GENERATED AUTOMATICALLY!
+landscape:
+  - category:
+    name: Projects
+    subcategories:
+      - subcategory:
+        name: Core
+        items:
+          - item:
+            name: React
+            homepage_url: https://reactjs.org
+            project: foundationproject
+            repo_url: https://github.com/facebook/react
+            logo: react.svg
+            crunchbase: https://www.crunchbase.com/organization/open-js-foundation
+            crunchbase_data:
+              name: OpenJS Foundation
+              description: OpenJS Foundation specializes in the development of open-source infrastructure projects.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://openjsf.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/openjsf
+              linkedin: https://www.linkedin.com/company/openjs-foundation/
+              acquisitions:
+                - date: '2019-03-12'
+                  acquiree: JS Foundation
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: ''
+              industries:
+                - Association
+                - Developer Platform
+                - Developer Tools
+                - Non Profit
+                - Software
+                - Web Development
+            github_data:
+              languages:
+                - name: JavaScript
+                  value: 5508434
+                  color: '#f1e05a'
+                - name: HTML
+                  value: 115701
+                  color: '#e34c26'
+                - name: CSS
+                  value: 71241
+                  color: '#563d7c'
+                - name: C++
+                  value: 44278
+                  color: '#f34b7d'
+                - name: TypeScript
+                  value: 20728
+                  color: '#2b7489'
+                - name: CoffeeScript
+                  value: 16779
+                  color: '#244776'
+                - name: C
+                  value: 5225
+                  color: '#555555'
+                - name: Shell
+                  value: 3830
+                  color: '#89e051'
+                - name: Python
+                  value: 259
+                  color: '#3572A5'
+                - name: Makefile
+                  value: 189
+                  color: '#427819'
+              contributions: 9;26;30;32;15;26;23;21;25;14;18;16;12;17;13;8;16;22;5;10;23;18;4;9;38;10;6;0;3;9;17;17;25;29;8;11;7;23;19;31;35;16;38;20;31;23;12;21;12;20;18;26
+              firstWeek: 2020-06-21Z
+              stars: 170052
+              license: MIT License
+              description: A declarative, efficient, and flexible JavaScript library for building user interfaces.
+              latest_commit_date: '2021-06-17T18:29:30Z'
+              latest_commit_link: /facebook/react/commit/568dc3532e25b30eee5072de08503b1bbc4f065d
+              release_date: '2021-03-22T22:00:26Z'
+              release_link: https://github.com/facebook/react/releases
+              contributors_count: 1640
+              contributors_link: https://github.com/facebook/react/graphs/contributors
+            repos:
+              - url: https://github.com/facebook/react
+                stars: 170052
+            github_start_commit_data:
+              start_commit_link: /facebook/react/commit/75897c2dcd1dd3a6ca46284dd37e13d22b4b16b4
+              start_date: '2013-05-29T19:46:11Z'
+            image_data:
+              fileName: react.svg
+              hash: YHd2idcx/kd2onJhPZljx/mIQ/oXW6IUzX7xQvMWLuw=
+            best_practice_data:
+              badge: 95
+              percentage: 81
+            twitter_data:
+              latest_tweet_date: 2021-06-17T21:02:05.000Z
+      - subcategory:
+        name: Frameworks
+        items:
+          - item:
+            name: React Native
+            homepage_url: https://reactnative.dev
+            project: foundationproject
+            repo_url: https://github.com/facebook/react-native
+            logo: react.svg
+            crunchbase: https://www.crunchbase.com/organization/open-js-foundation
+            crunchbase_data:
+              name: OpenJS Foundation
+              description: OpenJS Foundation specializes in the development of open-source infrastructure projects.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://openjsf.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/openjsf
+              linkedin: https://www.linkedin.com/company/openjs-foundation/
+              acquisitions:
+                - date: '2019-03-12'
+                  acquiree: JS Foundation
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: ''
+              industries:
+                - Association
+                - Developer Platform
+                - Developer Tools
+                - Non Profit
+                - Software
+                - Web Development
+            github_data:
+              languages:
+                - name: JavaScript
+                  value: 8667931
+                  color: '#f1e05a'
+                - name: Java
+                  value: 3596102
+                  color: '#b07219'
+                - name: C++
+                  value: 3013847
+                  color: '#f34b7d'
+                - name: Objective-C
+                  value: 1596407
+                  color: '#438eff'
+                - name: Objective-C++
+                  value: 1129410
+                  color: '#6866fb'
+                - name: Starlark
+                  value: 349937
+                - name: Ruby
+                  value: 101240
+                  color: '#701516'
+                - name: Makefile
+                  value: 74363
+                  color: '#427819'
+                - name: Shell
+                  value: 73747
+                  color: '#89e051'
+                - name: Kotlin
+                  value: 21632
+                  color: '#F18E33'
+                - name: C
+                  value: 16176
+                  color: '#555555'
+                - name: Assembly
+                  value: 14912
+                  color: '#6E4C13'
+                - name: HTML
+                  value: 1473
+                  color: '#e34c26'
+                - name: CMake
+                  value: 994
+                - name: Batchfile
+                  value: 275
+                  color: '#C1F12E'
+              contributions: >-
+                33;56;27;47;22;46;97;50;40;90;38;23;61;52;85;43;42;51;64;31;43;52;16;21;49;53;44;18;25;40;30;82;47;65;37;39;59;56;48;40;57;38;64;47;66;49;38;25;44;28;50;58
+              firstWeek: 2020-06-21Z
+              stars: 96154
+              license: Other
+              description: A framework for building native apps with React.
+              latest_commit_date: '2021-06-18T00:28:32Z'
+              latest_commit_link: /facebook/react-native/commit/225ff72d2de55705c2631aa4c274065695554a5e
+              release_date: '2021-06-17T11:44:54Z'
+              release_link: https://github.com/facebook/react-native/releases
+              contributors_count: 2950
+              contributors_link: https://github.com/facebook/react-native/graphs/contributors
+            repos:
+              - url: https://github.com/facebook/react-native
+                stars: 96154
+            github_start_commit_data:
+              start_commit_link: /facebook/react-native/commit/a15603d8f1ecdd673d80be318293cee53eb4475d
+              start_date: '2015-01-30T01:10:49Z'
+            image_data:
+              fileName: react-native.svg
+              hash: YHd2idcx/kd2onJhPZljx/mIQ/oXW6IUzX7xQvMWLuw=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T21:02:05.000Z
+          - item:
+            name: draft-js
+            homepage_url: https://draftjs.org
+            project: foundationproject
+            repo_url: https://github.com/facebook/draft-js
+            logo: react.svg
+            crunchbase: https://www.crunchbase.com/organization/open-js-foundation
+            crunchbase_data:
+              name: OpenJS Foundation
+              description: OpenJS Foundation specializes in the development of open-source infrastructure projects.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://openjsf.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/openjsf
+              linkedin: https://www.linkedin.com/company/openjs-foundation/
+              acquisitions:
+                - date: '2019-03-12'
+                  acquiree: JS Foundation
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: ''
+              industries:
+                - Association
+                - Developer Platform
+                - Developer Tools
+                - Non Profit
+                - Software
+                - Web Development
+            github_data:
+              languages:
+                - name: JavaScript
+                  value: 886330
+                  color: '#f1e05a'
+                - name: CSS
+                  value: 10480
+                  color: '#563d7c'
+              contributions: 0;1;2;1;8;14;2;1;4;2;4;2;2;4;4;7;12;6;4;3;5;2;0;1;4;2;0;0;3;0;0;1;0;2;3;0;1;4;4;2;0;0;1;0;1;0;0;0;1;0;1;0
+              firstWeek: 2020-06-21Z
+              stars: 20422
+              license: Other
+              description: A React framework for building text editors.
+              latest_commit_date: '2021-06-17T20:54:17Z'
+              latest_commit_link: /facebook/draft-js/commit/7b3daf3d30831f4fd86c4b3535fcb4ba9f598283
+              release_date: '2020-08-17T16:40:16Z'
+              release_link: https://github.com/facebook/draft-js/releases
+              contributors_count: 305
+              contributors_link: https://github.com/facebook/draft-js/graphs/contributors
+            repos:
+              - url: https://github.com/facebook/draft-js
+                stars: 20422
+            github_start_commit_data:
+              start_commit_link: /facebook/draft-js/commit/342576bf7186d07c82a41d9ca8169130669747d6
+              start_date: '2016-02-22T17:47:16Z'
+            image_data:
+              fileName: draft-js.svg
+              hash: YHd2idcx/kd2onJhPZljx/mIQ/oXW6IUzX7xQvMWLuw=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T21:02:05.000Z
+          - item:
+            name: relay
+            homepage_url: https://relay.dev
+            project: foundationproject
+            repo_url: https://github.com/facebook/relay
+            logo: relay.svg
+            crunchbase: https://www.crunchbase.com/organization/open-js-foundation
+            crunchbase_data:
+              name: OpenJS Foundation
+              description: OpenJS Foundation specializes in the development of open-source infrastructure projects.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://openjsf.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/openjsf
+              linkedin: https://www.linkedin.com/company/openjs-foundation/
+              acquisitions:
+                - date: '2019-03-12'
+                  acquiree: JS Foundation
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: ''
+              industries:
+                - Association
+                - Developer Platform
+                - Developer Tools
+                - Non Profit
+                - Software
+                - Web Development
+            github_data:
+              languages:
+                - name: JavaScript
+                  value: 3737253
+                  color: '#f1e05a'
+                - name: Rust
+                  value: 2578245
+                  color: '#dea584'
+                - name: HTML
+                  value: 101823
+                  color: '#e34c26'
+                - name: CSS
+                  value: 40764
+                  color: '#563d7c'
+                - name: Shell
+                  value: 3231
+                  color: '#89e051'
+                - name: Python
+                  value: 1734
+                  color: '#3572A5'
+              contributions: >-
+                40;19;15;25;17;21;46;31;24;35;30;12;14;27;27;18;15;27;40;39;34;52;7;16;38;42;7;9;15;17;15;34;60;64;67;51;127;97;40;42;20;30;52;18;17;13;19;20;48;11;28;42
+              firstWeek: 2020-06-21Z
+              stars: 15751
+              license: MIT License
+              description: Relay is a JavaScript framework for building data-driven React applications.
+              latest_commit_date: '2021-06-18T03:06:45Z'
+              latest_commit_link: /facebook/relay/commit/c6512a9ac63689badcac657784b32726413e2236
+              release_date: '2021-04-15T17:38:20Z'
+              release_link: https://github.com/facebook/relay/releases
+              contributors_count: 586
+              contributors_link: https://github.com/facebook/relay/graphs/contributors
+            repos:
+              - url: https://github.com/facebook/relay
+                stars: 15751
+            github_start_commit_data:
+              start_commit_link: /facebook/relay/commit/2a86be3e71cdc6511fa994e3de539f72070da1b4
+              start_date: '2015-08-11T19:07:23Z'
+            image_data:
+              fileName: relay.svg
+              hash: xLCP5lSoWtzRGGqRy38Rob5kcbwQ2Vu8ATCcKqqQYrc=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T21:02:05.000Z
+          - item:
+            name: Componentkit
+            homepage_url: https://componentkit.org/
+            project: foundationproject
+            repo_url: https://github.com/facebook/componentkit
+            logo: react.svg
+            crunchbase: https://www.crunchbase.com/organization/open-js-foundation
+            crunchbase_data:
+              name: OpenJS Foundation
+              description: OpenJS Foundation specializes in the development of open-source infrastructure projects.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://openjsf.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/openjsf
+              linkedin: https://www.linkedin.com/company/openjs-foundation/
+              acquisitions:
+                - date: '2019-03-12'
+                  acquiree: JS Foundation
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: ''
+              industries:
+                - Association
+                - Developer Platform
+                - Developer Tools
+                - Non Profit
+                - Software
+                - Web Development
+            github_data:
+              languages:
+                - name: Objective-C++
+                  value: 1870256
+                  color: '#6866fb'
+                - name: Objective-C
+                  value: 882593
+                  color: '#438eff'
+                - name: Swift
+                  value: 72484
+                  color: '#ffac45'
+                - name: Ruby
+                  value: 3206
+                  color: '#701516'
+                - name: Shell
+                  value: 2294
+                  color: '#89e051'
+                - name: C
+                  value: 1400
+                  color: '#555555'
+                - name: C++
+                  value: 1120
+                  color: '#f34b7d'
+              contributions: 1;23;10;8;1;3;5;2;6;3;1;30;19;19;13;26;11;19;15;12;5;4;3;6;10;2;0;1;8;7;5;6;1;3;16;23;15;17;28;0;0;0;0;0;0;0;4;0;0;0;0;0
+              firstWeek: 2020-06-21Z
+              stars: 5543
+              license: Other
+              description: A React-inspired view framework for iOS.
+              latest_commit_date: '2021-05-12T09:56:56Z'
+              latest_commit_link: /facebook/componentkit/commit/734361db35178f8e62f25da8624552df74658ab3
+              release_date: '2021-06-04T13:14:47Z'
+              release_link: https://github.com/facebook/componentkit/releases
+              contributors_count: 187
+              contributors_link: https://github.com/facebook/componentkit/graphs/contributors
+            repos:
+              - url: https://github.com/facebook/componentkit
+                stars: 5543
+            github_start_commit_data:
+              start_commit_link: /facebook/componentkit/commit/dd00d27dcebbc69f4484df7feaddf435c6d1907c
+              start_date: '2015-03-25T04:27:55Z'
+            image_data:
+              fileName: componentkit.svg
+              hash: YHd2idcx/kd2onJhPZljx/mIQ/oXW6IUzX7xQvMWLuw=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T21:02:05.000Z
+      - subcategory:
+        name: Tools
+        items:
+          - item:
+            name: Metro
+            homepage_url: https://facebook.github.io/metro
+            project: foundationproject
+            repo_url: https://github.com/facebook/metro
+            logo: metro.svg
+            crunchbase: https://www.crunchbase.com/organization/open-js-foundation
+            crunchbase_data:
+              name: OpenJS Foundation
+              description: OpenJS Foundation specializes in the development of open-source infrastructure projects.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://openjsf.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/openjsf
+              linkedin: https://www.linkedin.com/company/openjs-foundation/
+              acquisitions:
+                - date: '2019-03-12'
+                  acquiree: JS Foundation
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: ''
+              industries:
+                - Association
+                - Developer Platform
+                - Developer Tools
+                - Non Profit
+                - Software
+                - Web Development
+            github_data:
+              languages:
+                - name: JavaScript
+                  value: 1559876
+                  color: '#f1e05a'
+                - name: CSS
+                  value: 1296
+                  color: '#563d7c'
+                - name: TypeScript
+                  value: 426
+                  color: '#2b7489'
+              contributions: 1;8;4;1;5;1;0;10;3;2;4;5;8;4;3;10;6;7;6;3;10;5;1;7;2;3;2;1;2;1;2;4;3;4;1;1;3;3;1;7;3;3;0;3;5;5;8;4;10;3;0;5
+              firstWeek: 2020-06-21Z
+              stars: 4075
+              license: MIT License
+              description: 🚇 The JavaScript bundler for React Native.
+              latest_commit_date: '2021-06-17T09:43:01Z'
+              latest_commit_link: /facebook/metro/commit/1370b7a609d6361b3e057288b017e2077c90ab45
+              release_date: '2021-04-20T09:58:32Z'
+              release_link: https://github.com/facebook/metro/releases
+              contributors_count: 343
+              contributors_link: https://github.com/facebook/metro/graphs/contributors
+            repos:
+              - url: https://github.com/facebook/metro
+                stars: 4075
+            github_start_commit_data:
+              start_commit_link: /facebook/metro/commit/ddaccf41d860642a92d8b1aa2325d1a1de3ba7cf
+              start_date: '2015-01-30T01:10:49Z'
+            image_data:
+              fileName: metro.svg
+              hash: Bm7dgObr4nAT1UabzmBUh9poO2fHauNk7BEII9tASa4=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T21:02:05.000Z
+          - item:
+            name: Create React App
+            homepage_url: https://facebook.github.io/create-react-app
+            project: foundationproject
+            repo_url: https://github.com/facebook/create-react-app
+            logo: create-react-app.svg
+            crunchbase: https://www.crunchbase.com/organization/open-js-foundation
+            crunchbase_data:
+              name: OpenJS Foundation
+              description: OpenJS Foundation specializes in the development of open-source infrastructure projects.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://openjsf.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/openjsf
+              linkedin: https://www.linkedin.com/company/openjs-foundation/
+              acquisitions:
+                - date: '2019-03-12'
+                  acquiree: JS Foundation
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: ''
+              industries:
+                - Association
+                - Developer Platform
+                - Developer Tools
+                - Non Profit
+                - Software
+                - Web Development
+            github_data:
+              languages:
+                - name: JavaScript
+                  value: 3048470
+                  color: '#f1e05a'
+                - name: Shell
+                  value: 39838
+                  color: '#89e051'
+                - name: CSS
+                  value: 3828
+                  color: '#563d7c'
+                - name: HTML
+                  value: 3736
+                  color: '#e34c26'
+                - name: AppleScript
+                  value: 2657
+                  color: '#101F1F'
+                - name: TypeScript
+                  value: 1995
+                  color: '#2b7489'
+                - name: SCSS
+                  value: 491
+                - name: Sass
+                  value: 200
+              contributions: 4;2;0;1;4;4;13;4;1;1;1;1;13;0;2;0;2;10;18;2;4;1;6;0;8;1;0;0;0;2;0;0;8;0;1;5;1;2;3;0;2;0;5;0;0;0;4;0;0;4;1;0
+              firstWeek: 2020-06-21Z
+              stars: 88528
+              license: MIT License
+              description: Set up a modern web app by running one command.
+              latest_commit_date: '2021-06-08T05:38:49Z'
+              latest_commit_link: /facebook/create-react-app/commit/0ee4765c39f820e5f4820abf4bf2e47b3324da7f
+              release_date: '2021-02-22T18:24:09Z'
+              release_link: https://github.com/facebook/create-react-app/releases
+              contributors_count: 899
+              contributors_link: https://github.com/facebook/create-react-app/graphs/contributors
+            repos:
+              - url: https://github.com/facebook/create-react-app
+                stars: 88528
+            github_start_commit_data:
+              start_commit_link: /facebook/create-react-app/commit/003d9e7b52c3a91cb584b3afd78cd06c539f13be
+              start_date: '2016-07-15T16:46:37Z'
+            image_data:
+              fileName: create-react-app.svg
+              hash: 5EeQhEkL0wonCLa/lQb+UjHSmak2vflfTcp8L69fUbY=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T21:02:05.000Z
+          - item:
+            name: prop-types
+            homepage_url: https://facebook.github.io/prop-types
+            project: foundationproject
+            repo_url: https://github.com/facebook/prop-types
+            logo: react.svg
+            crunchbase: https://www.crunchbase.com/organization/open-js-foundation
+            crunchbase_data:
+              name: OpenJS Foundation
+              description: OpenJS Foundation specializes in the development of open-source infrastructure projects.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://openjsf.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/openjsf
+              linkedin: https://www.linkedin.com/company/openjs-foundation/
+              acquisitions:
+                - date: '2019-03-12'
+                  acquiree: JS Foundation
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: ''
+              industries:
+                - Association
+                - Developer Platform
+                - Developer Tools
+                - Non Profit
+                - Software
+                - Web Development
+            github_data:
+              languages:
+                - name: JavaScript
+                  value: 164675
+                  color: '#f1e05a'
+              contributions: 0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0
+              firstWeek: 2020-06-21Z
+              stars: 3914
+              license: MIT License
+              description: Runtime type checking for React props and similar objects
+              latest_commit_date: '2021-05-21T12:01:38Z'
+              latest_commit_link: /facebook/prop-types/commit/4de0644a10a554d0a556daa39f029369bc007ea5
+              contributors_count: 51
+              contributors_link: https://github.com/facebook/prop-types/graphs/contributors
+            repos:
+              - url: https://github.com/facebook/prop-types
+                stars: 3914
+            github_start_commit_data:
+              start_commit_link: /facebook/prop-types/commit/cae72bb281a3766c765e3624f6088c3713567e6d
+              start_date: '2017-04-08T00:44:02Z'
+            image_data:
+              fileName: prop-types.svg
+              hash: YHd2idcx/kd2onJhPZljx/mIQ/oXW6IUzX7xQvMWLuw=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T21:02:05.000Z
+      - subcategory:
+        name: Engines
+        items:
+          - item:
+            name: Hermes
+            homepage_url: https://github.com/facebook/hermes
+            project: foundationproject
+            repo_url: https://github.com/facebook/hermes
+            logo: hermes.svg
+            crunchbase: https://www.crunchbase.com/organization/open-js-foundation
+            crunchbase_data:
+              name: OpenJS Foundation
+              description: OpenJS Foundation specializes in the development of open-source infrastructure projects.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://openjsf.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/openjsf
+              linkedin: https://www.linkedin.com/company/openjs-foundation/
+              acquisitions:
+                - date: '2019-03-12'
+                  acquiree: JS Foundation
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: ''
+              industries:
+                - Association
+                - Developer Platform
+                - Developer Tools
+                - Non Profit
+                - Software
+                - Web Development
+            github_data:
+              languages:
+                - name: C++
+                  value: 8649213
+                  color: '#f34b7d'
+                - name: JavaScript
+                  value: 3398774
+                  color: '#f1e05a'
+                - name: Java
+                  value: 416146
+                  color: '#b07219'
+                - name: C
+                  value: 346569
+                  color: '#555555'
+                - name: Python
+                  value: 260426
+                  color: '#3572A5'
+                - name: CMake
+                  value: 104362
+                - name: TypeScript
+                  value: 87572
+                  color: '#2b7489'
+                - name: Shell
+                  value: 36144
+                  color: '#89e051'
+                - name: POV-Ray SDL
+                  value: 23631
+                - name: CSS
+                  value: 6215
+                  color: '#563d7c'
+                - name: NASL
+                  value: 4990
+                - name: Ruby
+                  value: 2547
+                  color: '#701516'
+                - name: Swift
+                  value: 2117
+                  color: '#ffac45'
+                - name: Objective-C++
+                  value: 815
+                  color: '#6866fb'
+                - name: D
+                  value: 518
+                  color: '#ba595e'
+                - name: Objective-C
+                  value: 301
+                  color: '#438eff'
+                - name: DTrace
+                  value: 275
+              contributions: >-
+                51;13;20;19;15;46;26;11;18;24;18;27;36;43;34;51;41;20;65;30;37;29;9;34;40;10;23;12;30;32;15;49;41;40;13;24;24;13;26;22;30;24;24;19;16;19;36;19;7;11;23;11
+              firstWeek: 2020-06-21Z
+              stars: 6454
+              license: MIT License
+              description: Hermes is a small and lightweight JavaScript engine optimized for running React Native.
+              latest_commit_date: '2021-06-17T14:26:35Z'
+              latest_commit_link: /facebook/hermes/commit/4b6e9585ac51a17221bc4c3b49cf866aca29c742
+              release_date: '2021-04-29T05:59:32Z'
+              release_link: https://github.com/facebook/hermes/releases
+              contributors_count: 139
+              contributors_link: https://github.com/facebook/hermes/graphs/contributors
+            repos:
+              - url: https://github.com/facebook/hermes
+                stars: 6454
+            github_start_commit_data:
+              start_commit_link: /facebook/hermes/commit/f22a18f67da3f03db59c1ec715d6ec3776b03fbf
+              start_date: '2019-07-10T16:43:32Z'
+            image_data:
+              fileName: hermes.svg
+              hash: 3ihrlRfVGpSNN0/EtT723BI3beNF9Id8A134lOdkRsY=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T21:02:05.000Z
+  - category:
+    name: Adopters
+    subcategories:
+      - subcategory:
+        name: Implementers
+        items:
+          - item:
+            name: Airbnb (adopter)
+            homepage_url: https://www.airbnb.com
+            logo: airbnb.svg
+            crunchbase: https://www.crunchbase.com/organization/airbnb
+            crunchbase_data:
+              name: Airbnb
+              description: Airbnb is an online community marketplace for people to list, discover, and book accommodations through mobile phones or the internet.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://airbnb.com
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: http://twitter.com/airbnb
+              linkedin: https://www.linkedin.com/company/airbnb
+              acquisitions:
+                - date: '2011-06-01'
+                  acquiree: Accoleo
+                - date: '2012-03-20'
+                  acquiree: Crashpadder
+                - date: '2012-07-01'
+                  acquiree: NabeWise
+                - date: '2012-07-24'
+                  acquiree: DailyBooth
+                - date: '2012-10-03'
+                  acquiree: Fondu
+                - date: '2012-12-01'
+                  acquiree: Localmind
+                - date: '2014-12-02'
+                  acquiree: Pencil Labs
+                - date: '2015-09-11'
+                  acquiree: Vamo
+                - date: '2015-09-29'
+                  acquiree: Lapka
+                - date: '2016-01-01'
+                  acquiree: Bold Financial Technologies
+                - date: '2016-04-13'
+                  acquiree: ChangeCoin
+                - date: '2016-09-19'
+                  acquiree: Trip4real
+                - date: '2017-02-10'
+                  acquiree: Luxury Retreats
+                  price: 200000000
+                - date: '2017-02-23'
+                  acquiree: Tilt
+                - date: '2017-05-02'
+                  acquiree: Deco Software
+                - date: '2017-06-16'
+                  acquiree: Trooly
+                - date: '2017-11-16'
+                  acquiree: Accomable
+                - date: '2017-11-16'
+                  acquiree: AdBasis
+                - date: '2018-11-01'
+                  acquiree: Koko
+                - date: '2018-12-11'
+                  acquiree: Luckey
+                - date: '2019-01-25'
+                  acquiree: Gaest.com
+                - date: '2019-03-07'
+                  acquiree: HotelTonight
+                - date: '2019-08-05'
+                  acquiree: Urbandoor
+                - date: '2020-01-31'
+                  acquiree: Minbox
+              parents: []
+              ticker: ABNB
+              funding: 5950282100
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Hospitality
+                - Marketplace
+                - Mobile Apps
+                - Travel
+                - Travel Accommodations
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 92103548928
+              effective_ticker: ABNB
+            image_data:
+              fileName: airbnb-adopter.svg
+              hash: 4F20c1Q9BUtSvVwgWbsEFrWSxXHpGqckq0ZlnqrzU9w=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-12T23:46:43.000Z
+          - item:
+            name: Facebook (adopter)
+            homepage_url: https://facebook.com
+            logo: facebook.svg
+            crunchbase: https://www.crunchbase.com/organization/facebook
+            crunchbase_data:
+              name: Facebook
+              description: Facebook is an online social networking service that enables its users to connect with friends and family.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.facebook.com
+              city: Menlo Park
+              region: California
+              country: United States
+              twitter: https://twitter.com/facebook
+              linkedin: https://www.linkedin.com/company/facebook
+              acquisitions:
+                - date: '2007-07-01'
+                  acquiree: Parakey
+                - date: '2009-08-10'
+                  acquiree: FriendFeed
+                  price: 50000000
+                - date: '2010-02-19'
+                  acquiree: Octazen Solutions
+                - date: '2010-04-02'
+                  acquiree: Divvyshot
+                - date: '2010-05-26'
+                  acquiree: ShareGrove
+                - date: '2010-07-28'
+                  acquiree: Hot Potato
+                  price: 10000000
+                - date: '2010-08-15'
+                  acquiree: Chai Labs
+                  price: 10000000
+                - date: '2010-09-25'
+                  acquiree: Nextstop
+                  price: 2500000
+                - date: '2010-10-29'
+                  acquiree: drop.io
+                - date: '2010-11-16'
+                  acquiree: Zenbe
+                - date: '2011-01-25'
+                  acquiree: Rel8tion
+                - date: '2011-02-25'
+                  acquiree: Pursuit
+                - date: '2011-03-01'
+                  acquiree: Beluga
+                - date: '2011-03-20'
+                  acquiree: Snaptu
+                  price: 70000000
+                - date: '2011-04-27'
+                  acquiree: Daytum
+                - date: '2011-06-09'
+                  acquiree: Sofa
+                - date: '2011-08-02'
+                  acquiree: Push Pop Press
+                - date: '2011-11-07'
+                  acquiree: Digital Staircase
+                - date: '2011-11-08'
+                  acquiree: Strobe
+                - date: '2011-11-15'
+                  acquiree: MailRank
+                - date: '2011-11-28'
+                  acquiree: WhoGlue
+                - date: '2011-12-02'
+                  acquiree: Gowalla (acquired by facebook)
+                  price: 3000000
+                - date: '2012-02-29'
+                  acquiree: Sendoid
+                - date: '2012-03-03'
+                  acquiree: Friend.ly
+                - date: '2012-03-10'
+                  acquiree: GazeHawk
+                - date: '2012-04-09'
+                  acquiree: Instagram
+                  price: 1010470000
+                - date: '2012-04-13'
+                  acquiree: Tagtile
+                - date: '2012-05-04'
+                  acquiree: Glancee
+                - date: '2012-05-15'
+                  acquiree: Lightbox
+                - date: '2012-05-18'
+                  acquiree: Karma
+                - date: '2012-06-11'
+                  acquiree: Pieceable
+                - date: '2012-06-18'
+                  acquiree: Face.com
+                - date: '2012-06-21'
+                  acquiree: Bolt | Peters
+                - date: '2012-07-14'
+                  acquiree: Spool
+                - date: '2012-07-20'
+                  acquiree: Acrylic Software
+                - date: '2012-08-24'
+                  acquiree: threadsy
+                - date: '2013-02-28'
+                  acquiree: Atlas Solutions
+                - date: '2013-03-08'
+                  acquiree: Storylane
+                - date: '2013-03-14'
+                  acquiree: Hot Studio
+                - date: '2013-04-11'
+                  acquiree: Osmeta
+                - date: '2013-04-23'
+                  acquiree: Spaceport.io
+                - date: '2013-04-25'
+                  acquiree: Parse
+                  price: 85000000
+                - date: '2013-07-18'
+                  acquiree: Monoidics
+                - date: '2013-08-12'
+                  acquiree: Jibbigo
+                - date: '2013-10-14'
+                  acquiree: Onavo
+                  price: 120000000
+                - date: '2013-12-17'
+                  acquiree: SportStream
+                - date: '2014-01-13'
+                  acquiree: Branch
+                  price: 15000000
+                - date: '2014-02-19'
+                  acquiree: WhatsApp
+                  price: 19000000000
+                - date: '2014-03-25'
+                  acquiree: Oculus
+                  price: 2000000000
+                - date: '2014-03-28'
+                  acquiree: Ascenta (UK)
+                  price: 20000000
+                - date: '2014-04-24'
+                  acquiree: Moves
+                - date: '2014-04-24'
+                  acquiree: ProtoGeo
+                - date: '2014-07-01'
+                  acquiree: Little Eye Labs
+                - date: '2014-08-07'
+                  acquiree: PrivateCore
+                - date: '2014-08-14'
+                  acquiree: LiveRail
+                  price: 500000000
+                - date: '2015-01-05'
+                  acquiree: Wit.ai
+                - date: '2015-01-08'
+                  acquiree: QuickFire Networks
+                - date: '2015-01-16'
+                  acquiree: Teehan+Lax
+                - date: '2015-03-13'
+                  acquiree: TheFind, Inc.
+                - date: '2015-05-20'
+                  acquiree: Tugboat Yards
+                - date: '2015-10-05'
+                  acquiree: Endaga
+                - date: '2016-03-09'
+                  acquiree: Masquerade
+                - date: '2016-05-23'
+                  acquiree: Two Big Ears Ltd
+                - date: '2016-08-08'
+                  acquiree: Eyegroove
+                - date: '2016-09-19'
+                  acquiree: Nascent Objects Inc
+                - date: '2016-11-11'
+                  acquiree: CrowdTangle
+                - date: '2017-07-24'
+                  acquiree: Source3
+                - date: '2017-07-31'
+                  acquiree: Ozlo
+                - date: '2017-08-11'
+                  acquiree: Fayteq AG
+                - date: '2017-10-16'
+                  acquiree: tbh
+                - date: '2018-01-23'
+                  acquiree: Confirm.io (Acquired by Facebook)
+                - date: '2018-07-02'
+                  acquiree: Bloomsbury AI
+                - date: '2018-07-26'
+                  acquiree: RedKix
+                - date: '2018-08-14'
+                  acquiree: Vidpresso
+                - date: '2018-10-01'
+                  acquiree: Refdash
+                - date: '2018-11-28'
+                  acquiree: Dreambit
+                - date: '2019-02-08'
+                  acquiree: Grokstyle
+                - date: '2019-03-13'
+                  acquiree: Sonics
+                - date: '2019-09-22'
+                  acquiree: Servicefriend
+                - date: '2019-09-23'
+                  acquiree: CTRL-labs
+                - date: '2019-12-13'
+                  acquiree: Atlas ML
+                - date: '2019-12-19'
+                  acquiree: PlayGiga
+                - date: '2019-12-20'
+                  acquiree: Packagd
+                - date: '2020-02-09'
+                  acquiree: Scape Technologies
+                - date: '2020-02-25'
+                  acquiree: Sanzaru Games
+                - date: '2020-05-15'
+                  acquiree: Giphy
+                  price: 400000000
+                - date: '2020-06-18'
+                  acquiree: Mapillary
+                - date: '2020-09-22'
+                  acquiree: Lemnis Technologies
+                - date: '2020-11-30'
+                  acquiree: Kustomer
+                  price: 1000000000
+                - date: '2021-06-04'
+                  acquiree: Unit 2 Games
+              parents: []
+              ticker: FB
+              funding: 16122817488
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Mobile Apps
+                - Photo Sharing
+                - Social Media
+                - Social Network
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 938764075008
+              effective_ticker: FB
+            image_data:
+              fileName: facebook-adopter.svg
+              hash: /C4CkSIjS6eMN1e7nROOTuCtKg9W0/HUvNwIhzN8ktU=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-16T20:04:04.000Z
+          - item:
+            name: Gatsby (adopter)
+            homepage_url: https://gatsbyjs.com
+            logo: gatsby.svg
+            crunchbase: https://www.crunchbase.com/organization/gatsby-e828
+            crunchbase_data:
+              name: Gatsby
+              description: Gatsby is a Software-as-a-service open source web development tool and framework which is customizable and extensible for any purpose.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: https://www.gatsbyjs.org/
+              city: Berkeley
+              region: California
+              country: United States
+              twitter: https://twitter.com/gatsbyjs
+              linkedin: https://www.linkedin.com/company/gatsbyjs/
+              acquisitions: []
+              parents: []
+              funding: 46800000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Internet
+                - SaaS
+                - Software
+                - Web Development
+              kind: funding
+            image_data:
+              fileName: gatsby-adopter.svg
+              hash: D9V46+hux+iVUV7zOsEkAjIKVSTCZXRYQ0dWmJQNCX4=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T18:40:08.000Z
+  - category:
+    name: React Members
+    subcategories:
+      - subcategory:
+        name: General
+        items:
+          - item:
+            name: Facebook (member)
+            homepage_url: https://facebook.com
+            logo: facebook.svg
+            crunchbase: https://www.crunchbase.com/organization/facebook
+            crunchbase_data:
+              name: Facebook
+              description: Facebook is an online social networking service that enables its users to connect with friends and family.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.facebook.com
+              city: Menlo Park
+              region: California
+              country: United States
+              twitter: https://twitter.com/facebook
+              linkedin: https://www.linkedin.com/company/facebook
+              acquisitions:
+                - date: '2007-07-01'
+                  acquiree: Parakey
+                - date: '2009-08-10'
+                  acquiree: FriendFeed
+                  price: 50000000
+                - date: '2010-02-19'
+                  acquiree: Octazen Solutions
+                - date: '2010-04-02'
+                  acquiree: Divvyshot
+                - date: '2010-05-26'
+                  acquiree: ShareGrove
+                - date: '2010-07-28'
+                  acquiree: Hot Potato
+                  price: 10000000
+                - date: '2010-08-15'
+                  acquiree: Chai Labs
+                  price: 10000000
+                - date: '2010-09-25'
+                  acquiree: Nextstop
+                  price: 2500000
+                - date: '2010-10-29'
+                  acquiree: drop.io
+                - date: '2010-11-16'
+                  acquiree: Zenbe
+                - date: '2011-01-25'
+                  acquiree: Rel8tion
+                - date: '2011-02-25'
+                  acquiree: Pursuit
+                - date: '2011-03-01'
+                  acquiree: Beluga
+                - date: '2011-03-20'
+                  acquiree: Snaptu
+                  price: 70000000
+                - date: '2011-04-27'
+                  acquiree: Daytum
+                - date: '2011-06-09'
+                  acquiree: Sofa
+                - date: '2011-08-02'
+                  acquiree: Push Pop Press
+                - date: '2011-11-07'
+                  acquiree: Digital Staircase
+                - date: '2011-11-08'
+                  acquiree: Strobe
+                - date: '2011-11-15'
+                  acquiree: MailRank
+                - date: '2011-11-28'
+                  acquiree: WhoGlue
+                - date: '2011-12-02'
+                  acquiree: Gowalla (acquired by facebook)
+                  price: 3000000
+                - date: '2012-02-29'
+                  acquiree: Sendoid
+                - date: '2012-03-03'
+                  acquiree: Friend.ly
+                - date: '2012-03-10'
+                  acquiree: GazeHawk
+                - date: '2012-04-09'
+                  acquiree: Instagram
+                  price: 1010470000
+                - date: '2012-04-13'
+                  acquiree: Tagtile
+                - date: '2012-05-04'
+                  acquiree: Glancee
+                - date: '2012-05-15'
+                  acquiree: Lightbox
+                - date: '2012-05-18'
+                  acquiree: Karma
+                - date: '2012-06-11'
+                  acquiree: Pieceable
+                - date: '2012-06-18'
+                  acquiree: Face.com
+                - date: '2012-06-21'
+                  acquiree: Bolt | Peters
+                - date: '2012-07-14'
+                  acquiree: Spool
+                - date: '2012-07-20'
+                  acquiree: Acrylic Software
+                - date: '2012-08-24'
+                  acquiree: threadsy
+                - date: '2013-02-28'
+                  acquiree: Atlas Solutions
+                - date: '2013-03-08'
+                  acquiree: Storylane
+                - date: '2013-03-14'
+                  acquiree: Hot Studio
+                - date: '2013-04-11'
+                  acquiree: Osmeta
+                - date: '2013-04-23'
+                  acquiree: Spaceport.io
+                - date: '2013-04-25'
+                  acquiree: Parse
+                  price: 85000000
+                - date: '2013-07-18'
+                  acquiree: Monoidics
+                - date: '2013-08-12'
+                  acquiree: Jibbigo
+                - date: '2013-10-14'
+                  acquiree: Onavo
+                  price: 120000000
+                - date: '2013-12-17'
+                  acquiree: SportStream
+                - date: '2014-01-13'
+                  acquiree: Branch
+                  price: 15000000
+                - date: '2014-02-19'
+                  acquiree: WhatsApp
+                  price: 19000000000
+                - date: '2014-03-25'
+                  acquiree: Oculus
+                  price: 2000000000
+                - date: '2014-03-28'
+                  acquiree: Ascenta (UK)
+                  price: 20000000
+                - date: '2014-04-24'
+                  acquiree: Moves
+                - date: '2014-04-24'
+                  acquiree: ProtoGeo
+                - date: '2014-07-01'
+                  acquiree: Little Eye Labs
+                - date: '2014-08-07'
+                  acquiree: PrivateCore
+                - date: '2014-08-14'
+                  acquiree: LiveRail
+                  price: 500000000
+                - date: '2015-01-05'
+                  acquiree: Wit.ai
+                - date: '2015-01-08'
+                  acquiree: QuickFire Networks
+                - date: '2015-01-16'
+                  acquiree: Teehan+Lax
+                - date: '2015-03-13'
+                  acquiree: TheFind, Inc.
+                - date: '2015-05-20'
+                  acquiree: Tugboat Yards
+                - date: '2015-10-05'
+                  acquiree: Endaga
+                - date: '2016-03-09'
+                  acquiree: Masquerade
+                - date: '2016-05-23'
+                  acquiree: Two Big Ears Ltd
+                - date: '2016-08-08'
+                  acquiree: Eyegroove
+                - date: '2016-09-19'
+                  acquiree: Nascent Objects Inc
+                - date: '2016-11-11'
+                  acquiree: CrowdTangle
+                - date: '2017-07-24'
+                  acquiree: Source3
+                - date: '2017-07-31'
+                  acquiree: Ozlo
+                - date: '2017-08-11'
+                  acquiree: Fayteq AG
+                - date: '2017-10-16'
+                  acquiree: tbh
+                - date: '2018-01-23'
+                  acquiree: Confirm.io (Acquired by Facebook)
+                - date: '2018-07-02'
+                  acquiree: Bloomsbury AI
+                - date: '2018-07-26'
+                  acquiree: RedKix
+                - date: '2018-08-14'
+                  acquiree: Vidpresso
+                - date: '2018-10-01'
+                  acquiree: Refdash
+                - date: '2018-11-28'
+                  acquiree: Dreambit
+                - date: '2019-02-08'
+                  acquiree: Grokstyle
+                - date: '2019-03-13'
+                  acquiree: Sonics
+                - date: '2019-09-22'
+                  acquiree: Servicefriend
+                - date: '2019-09-23'
+                  acquiree: CTRL-labs
+                - date: '2019-12-13'
+                  acquiree: Atlas ML
+                - date: '2019-12-19'
+                  acquiree: PlayGiga
+                - date: '2019-12-20'
+                  acquiree: Packagd
+                - date: '2020-02-09'
+                  acquiree: Scape Technologies
+                - date: '2020-02-25'
+                  acquiree: Sanzaru Games
+                - date: '2020-05-15'
+                  acquiree: Giphy
+                  price: 400000000
+                - date: '2020-06-18'
+                  acquiree: Mapillary
+                - date: '2020-09-22'
+                  acquiree: Lemnis Technologies
+                - date: '2020-11-30'
+                  acquiree: Kustomer
+                  price: 1000000000
+                - date: '2021-06-04'
+                  acquiree: Unit 2 Games
+              parents: []
+              ticker: FB
+              funding: 16122817488
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Mobile Apps
+                - Photo Sharing
+                - Social Media
+                - Social Network
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 938764075008
+              effective_ticker: FB
+            image_data:
+              fileName: facebook-member.svg
+              hash: /C4CkSIjS6eMN1e7nROOTuCtKg9W0/HUvNwIhzN8ktU=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-16T20:04:04.000Z
+  - category:
+    name: Technical leadership
+    subcategories:
+      - subcategory:
+        name: Technical Advisory Council
+        items:
+          - item:
+            name: Facebook (TAC)
+            homepage_url: https://facebook.com
+            logo: facebook.svg
+            crunchbase: https://www.crunchbase.com/organization/facebook
+            crunchbase_data:
+              name: Facebook
+              description: Facebook is an online social networking service that enables its users to connect with friends and family.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.facebook.com
+              city: Menlo Park
+              region: California
+              country: United States
+              twitter: https://twitter.com/facebook
+              linkedin: https://www.linkedin.com/company/facebook
+              acquisitions:
+                - date: '2007-07-01'
+                  acquiree: Parakey
+                - date: '2009-08-10'
+                  acquiree: FriendFeed
+                  price: 50000000
+                - date: '2010-02-19'
+                  acquiree: Octazen Solutions
+                - date: '2010-04-02'
+                  acquiree: Divvyshot
+                - date: '2010-05-26'
+                  acquiree: ShareGrove
+                - date: '2010-07-28'
+                  acquiree: Hot Potato
+                  price: 10000000
+                - date: '2010-08-15'
+                  acquiree: Chai Labs
+                  price: 10000000
+                - date: '2010-09-25'
+                  acquiree: Nextstop
+                  price: 2500000
+                - date: '2010-10-29'
+                  acquiree: drop.io
+                - date: '2010-11-16'
+                  acquiree: Zenbe
+                - date: '2011-01-25'
+                  acquiree: Rel8tion
+                - date: '2011-02-25'
+                  acquiree: Pursuit
+                - date: '2011-03-01'
+                  acquiree: Beluga
+                - date: '2011-03-20'
+                  acquiree: Snaptu
+                  price: 70000000
+                - date: '2011-04-27'
+                  acquiree: Daytum
+                - date: '2011-06-09'
+                  acquiree: Sofa
+                - date: '2011-08-02'
+                  acquiree: Push Pop Press
+                - date: '2011-11-07'
+                  acquiree: Digital Staircase
+                - date: '2011-11-08'
+                  acquiree: Strobe
+                - date: '2011-11-15'
+                  acquiree: MailRank
+                - date: '2011-11-28'
+                  acquiree: WhoGlue
+                - date: '2011-12-02'
+                  acquiree: Gowalla (acquired by facebook)
+                  price: 3000000
+                - date: '2012-02-29'
+                  acquiree: Sendoid
+                - date: '2012-03-03'
+                  acquiree: Friend.ly
+                - date: '2012-03-10'
+                  acquiree: GazeHawk
+                - date: '2012-04-09'
+                  acquiree: Instagram
+                  price: 1010470000
+                - date: '2012-04-13'
+                  acquiree: Tagtile
+                - date: '2012-05-04'
+                  acquiree: Glancee
+                - date: '2012-05-15'
+                  acquiree: Lightbox
+                - date: '2012-05-18'
+                  acquiree: Karma
+                - date: '2012-06-11'
+                  acquiree: Pieceable
+                - date: '2012-06-18'
+                  acquiree: Face.com
+                - date: '2012-06-21'
+                  acquiree: Bolt | Peters
+                - date: '2012-07-14'
+                  acquiree: Spool
+                - date: '2012-07-20'
+                  acquiree: Acrylic Software
+                - date: '2012-08-24'
+                  acquiree: threadsy
+                - date: '2013-02-28'
+                  acquiree: Atlas Solutions
+                - date: '2013-03-08'
+                  acquiree: Storylane
+                - date: '2013-03-14'
+                  acquiree: Hot Studio
+                - date: '2013-04-11'
+                  acquiree: Osmeta
+                - date: '2013-04-23'
+                  acquiree: Spaceport.io
+                - date: '2013-04-25'
+                  acquiree: Parse
+                  price: 85000000
+                - date: '2013-07-18'
+                  acquiree: Monoidics
+                - date: '2013-08-12'
+                  acquiree: Jibbigo
+                - date: '2013-10-14'
+                  acquiree: Onavo
+                  price: 120000000
+                - date: '2013-12-17'
+                  acquiree: SportStream
+                - date: '2014-01-13'
+                  acquiree: Branch
+                  price: 15000000
+                - date: '2014-02-19'
+                  acquiree: WhatsApp
+                  price: 19000000000
+                - date: '2014-03-25'
+                  acquiree: Oculus
+                  price: 2000000000
+                - date: '2014-03-28'
+                  acquiree: Ascenta (UK)
+                  price: 20000000
+                - date: '2014-04-24'
+                  acquiree: Moves
+                - date: '2014-04-24'
+                  acquiree: ProtoGeo
+                - date: '2014-07-01'
+                  acquiree: Little Eye Labs
+                - date: '2014-08-07'
+                  acquiree: PrivateCore
+                - date: '2014-08-14'
+                  acquiree: LiveRail
+                  price: 500000000
+                - date: '2015-01-05'
+                  acquiree: Wit.ai
+                - date: '2015-01-08'
+                  acquiree: QuickFire Networks
+                - date: '2015-01-16'
+                  acquiree: Teehan+Lax
+                - date: '2015-03-13'
+                  acquiree: TheFind, Inc.
+                - date: '2015-05-20'
+                  acquiree: Tugboat Yards
+                - date: '2015-10-05'
+                  acquiree: Endaga
+                - date: '2016-03-09'
+                  acquiree: Masquerade
+                - date: '2016-05-23'
+                  acquiree: Two Big Ears Ltd
+                - date: '2016-08-08'
+                  acquiree: Eyegroove
+                - date: '2016-09-19'
+                  acquiree: Nascent Objects Inc
+                - date: '2016-11-11'
+                  acquiree: CrowdTangle
+                - date: '2017-07-24'
+                  acquiree: Source3
+                - date: '2017-07-31'
+                  acquiree: Ozlo
+                - date: '2017-08-11'
+                  acquiree: Fayteq AG
+                - date: '2017-10-16'
+                  acquiree: tbh
+                - date: '2018-01-23'
+                  acquiree: Confirm.io (Acquired by Facebook)
+                - date: '2018-07-02'
+                  acquiree: Bloomsbury AI
+                - date: '2018-07-26'
+                  acquiree: RedKix
+                - date: '2018-08-14'
+                  acquiree: Vidpresso
+                - date: '2018-10-01'
+                  acquiree: Refdash
+                - date: '2018-11-28'
+                  acquiree: Dreambit
+                - date: '2019-02-08'
+                  acquiree: Grokstyle
+                - date: '2019-03-13'
+                  acquiree: Sonics
+                - date: '2019-09-22'
+                  acquiree: Servicefriend
+                - date: '2019-09-23'
+                  acquiree: CTRL-labs
+                - date: '2019-12-13'
+                  acquiree: Atlas ML
+                - date: '2019-12-19'
+                  acquiree: PlayGiga
+                - date: '2019-12-20'
+                  acquiree: Packagd
+                - date: '2020-02-09'
+                  acquiree: Scape Technologies
+                - date: '2020-02-25'
+                  acquiree: Sanzaru Games
+                - date: '2020-05-15'
+                  acquiree: Giphy
+                  price: 400000000
+                - date: '2020-06-18'
+                  acquiree: Mapillary
+                - date: '2020-09-22'
+                  acquiree: Lemnis Technologies
+                - date: '2020-11-30'
+                  acquiree: Kustomer
+                  price: 1000000000
+                - date: '2021-06-04'
+                  acquiree: Unit 2 Games
+              parents: []
+              ticker: FB
+              funding: 16122817488
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Mobile Apps
+                - Photo Sharing
+                - Social Media
+                - Social Network
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 938764075008
+              effective_ticker: FB
+            image_data:
+              fileName: facebook-tac.svg
+              hash: /C4CkSIjS6eMN1e7nROOTuCtKg9W0/HUvNwIhzN8ktU=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-16T20:04:04.000Z
+      - subcategory:
+        name: Contributors
+        items:
+          - item:
+            name: Facebook (contributor)
+            homepage_url: https://facebook.com
+            logo: facebook.svg
+            crunchbase: https://www.crunchbase.com/organization/facebook
+            crunchbase_data:
+              name: Facebook
+              description: Facebook is an online social networking service that enables its users to connect with friends and family.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.facebook.com
+              city: Menlo Park
+              region: California
+              country: United States
+              twitter: https://twitter.com/facebook
+              linkedin: https://www.linkedin.com/company/facebook
+              acquisitions:
+                - date: '2007-07-01'
+                  acquiree: Parakey
+                - date: '2009-08-10'
+                  acquiree: FriendFeed
+                  price: 50000000
+                - date: '2010-02-19'
+                  acquiree: Octazen Solutions
+                - date: '2010-04-02'
+                  acquiree: Divvyshot
+                - date: '2010-05-26'
+                  acquiree: ShareGrove
+                - date: '2010-07-28'
+                  acquiree: Hot Potato
+                  price: 10000000
+                - date: '2010-08-15'
+                  acquiree: Chai Labs
+                  price: 10000000
+                - date: '2010-09-25'
+                  acquiree: Nextstop
+                  price: 2500000
+                - date: '2010-10-29'
+                  acquiree: drop.io
+                - date: '2010-11-16'
+                  acquiree: Zenbe
+                - date: '2011-01-25'
+                  acquiree: Rel8tion
+                - date: '2011-02-25'
+                  acquiree: Pursuit
+                - date: '2011-03-01'
+                  acquiree: Beluga
+                - date: '2011-03-20'
+                  acquiree: Snaptu
+                  price: 70000000
+                - date: '2011-04-27'
+                  acquiree: Daytum
+                - date: '2011-06-09'
+                  acquiree: Sofa
+                - date: '2011-08-02'
+                  acquiree: Push Pop Press
+                - date: '2011-11-07'
+                  acquiree: Digital Staircase
+                - date: '2011-11-08'
+                  acquiree: Strobe
+                - date: '2011-11-15'
+                  acquiree: MailRank
+                - date: '2011-11-28'
+                  acquiree: WhoGlue
+                - date: '2011-12-02'
+                  acquiree: Gowalla (acquired by facebook)
+                  price: 3000000
+                - date: '2012-02-29'
+                  acquiree: Sendoid
+                - date: '2012-03-03'
+                  acquiree: Friend.ly
+                - date: '2012-03-10'
+                  acquiree: GazeHawk
+                - date: '2012-04-09'
+                  acquiree: Instagram
+                  price: 1010470000
+                - date: '2012-04-13'
+                  acquiree: Tagtile
+                - date: '2012-05-04'
+                  acquiree: Glancee
+                - date: '2012-05-15'
+                  acquiree: Lightbox
+                - date: '2012-05-18'
+                  acquiree: Karma
+                - date: '2012-06-11'
+                  acquiree: Pieceable
+                - date: '2012-06-18'
+                  acquiree: Face.com
+                - date: '2012-06-21'
+                  acquiree: Bolt | Peters
+                - date: '2012-07-14'
+                  acquiree: Spool
+                - date: '2012-07-20'
+                  acquiree: Acrylic Software
+                - date: '2012-08-24'
+                  acquiree: threadsy
+                - date: '2013-02-28'
+                  acquiree: Atlas Solutions
+                - date: '2013-03-08'
+                  acquiree: Storylane
+                - date: '2013-03-14'
+                  acquiree: Hot Studio
+                - date: '2013-04-11'
+                  acquiree: Osmeta
+                - date: '2013-04-23'
+                  acquiree: Spaceport.io
+                - date: '2013-04-25'
+                  acquiree: Parse
+                  price: 85000000
+                - date: '2013-07-18'
+                  acquiree: Monoidics
+                - date: '2013-08-12'
+                  acquiree: Jibbigo
+                - date: '2013-10-14'
+                  acquiree: Onavo
+                  price: 120000000
+                - date: '2013-12-17'
+                  acquiree: SportStream
+                - date: '2014-01-13'
+                  acquiree: Branch
+                  price: 15000000
+                - date: '2014-02-19'
+                  acquiree: WhatsApp
+                  price: 19000000000
+                - date: '2014-03-25'
+                  acquiree: Oculus
+                  price: 2000000000
+                - date: '2014-03-28'
+                  acquiree: Ascenta (UK)
+                  price: 20000000
+                - date: '2014-04-24'
+                  acquiree: Moves
+                - date: '2014-04-24'
+                  acquiree: ProtoGeo
+                - date: '2014-07-01'
+                  acquiree: Little Eye Labs
+                - date: '2014-08-07'
+                  acquiree: PrivateCore
+                - date: '2014-08-14'
+                  acquiree: LiveRail
+                  price: 500000000
+                - date: '2015-01-05'
+                  acquiree: Wit.ai
+                - date: '2015-01-08'
+                  acquiree: QuickFire Networks
+                - date: '2015-01-16'
+                  acquiree: Teehan+Lax
+                - date: '2015-03-13'
+                  acquiree: TheFind, Inc.
+                - date: '2015-05-20'
+                  acquiree: Tugboat Yards
+                - date: '2015-10-05'
+                  acquiree: Endaga
+                - date: '2016-03-09'
+                  acquiree: Masquerade
+                - date: '2016-05-23'
+                  acquiree: Two Big Ears Ltd
+                - date: '2016-08-08'
+                  acquiree: Eyegroove
+                - date: '2016-09-19'
+                  acquiree: Nascent Objects Inc
+                - date: '2016-11-11'
+                  acquiree: CrowdTangle
+                - date: '2017-07-24'
+                  acquiree: Source3
+                - date: '2017-07-31'
+                  acquiree: Ozlo
+                - date: '2017-08-11'
+                  acquiree: Fayteq AG
+                - date: '2017-10-16'
+                  acquiree: tbh
+                - date: '2018-01-23'
+                  acquiree: Confirm.io (Acquired by Facebook)
+                - date: '2018-07-02'
+                  acquiree: Bloomsbury AI
+                - date: '2018-07-26'
+                  acquiree: RedKix
+                - date: '2018-08-14'
+                  acquiree: Vidpresso
+                - date: '2018-10-01'
+                  acquiree: Refdash
+                - date: '2018-11-28'
+                  acquiree: Dreambit
+                - date: '2019-02-08'
+                  acquiree: Grokstyle
+                - date: '2019-03-13'
+                  acquiree: Sonics
+                - date: '2019-09-22'
+                  acquiree: Servicefriend
+                - date: '2019-09-23'
+                  acquiree: CTRL-labs
+                - date: '2019-12-13'
+                  acquiree: Atlas ML
+                - date: '2019-12-19'
+                  acquiree: PlayGiga
+                - date: '2019-12-20'
+                  acquiree: Packagd
+                - date: '2020-02-09'
+                  acquiree: Scape Technologies
+                - date: '2020-02-25'
+                  acquiree: Sanzaru Games
+                - date: '2020-05-15'
+                  acquiree: Giphy
+                  price: 400000000
+                - date: '2020-06-18'
+                  acquiree: Mapillary
+                - date: '2020-09-22'
+                  acquiree: Lemnis Technologies
+                - date: '2020-11-30'
+                  acquiree: Kustomer
+                  price: 1000000000
+                - date: '2021-06-04'
+                  acquiree: Unit 2 Games
+              parents: []
+              ticker: FB
+              funding: 16122817488
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Mobile Apps
+                - Photo Sharing
+                - Social Media
+                - Social Network
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 938764075008
+              effective_ticker: FB
+            image_data:
+              fileName: facebook-contributor.svg
+              hash: /C4CkSIjS6eMN1e7nROOTuCtKg9W0/HUvNwIhzN8ktU=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-16T20:04:04.000Z
+twitter_options:
+  count: 30
+  since_id: '1382792180322988035'
+updated_at: 2021-06-17T05:43:26.303Z
